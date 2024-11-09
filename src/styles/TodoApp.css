@@ -1,0 +1,10 @@
+.todo-app {
+    padding: 20px;
+    max-width: 400px;
+    margin: 0 auto;
+  }
+  
+  .todo-app input {
+    margin-right: 10px;
+  }
+  
